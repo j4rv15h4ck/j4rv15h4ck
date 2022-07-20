@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning for 
 
-- 📝 I regulary write articles on [https://amalkollara.medium.com/](https://@amalkollara.medium.com/)
+- 📝 I regulary write articles on [https://medium.com/@amalkollara/](https://medium.com/@amalkollara/)
 
 - 💬 Ask me about **Shell Scripting, Ethical Hacking, Penetration Testing**
 
@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/amalkollara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Amal K D" height="30" width="40" /></a>
-<a href="https://@amalkollara.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@amalkollara" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amalkollara/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amal" height="30" width="40" /></a>
+<a href="https://medium.com/@amalkollara/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@amalkollara" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
