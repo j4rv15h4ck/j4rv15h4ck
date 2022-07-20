@@ -1,4 +1,5 @@
 <h1 align="center">Hello I'm Amal K D 👨‍💻</h1>
+
 <h3 align="center">Learn ⮕ Practice ⮕ Repeat</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j4rv15h4ck&label=Profile%20views&color=008ae6&style=flat-square" alt="j4rv15h4ck" /> </p>
