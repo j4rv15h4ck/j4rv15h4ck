@@ -1,6 +1,6 @@
 <h1 align="center">Hello I'm Amal K D 👨‍💻</h1> 
 
-<h3 align="center">Learn ⮕ Practice ⮕ Repeat</h3>
+<h3 align="center">Lazziest are More craziest</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j4rv15h4ck&label=Profile%20views&color=008ae6&style=flat-square" alt="j4rv15h4ck" /> </p>
@@ -8,14 +8,11 @@
 
 
 - 🔭 I’m currently working on [SHELL scripting](https:linkgithub)
-
-- 🌱 I’m currently learning for 
-
+ 
 - 📝 I regulary write articles on [https://medium.com/@amalkollara/](https://medium.com/@amalkollara/)
 
 - 💬 Ask me about **Shell Scripting, Ethical Hacking, Penetration Testing**
-
-- 📫 Reach me at 
+ 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
